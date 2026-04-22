@@ -6,4 +6,5 @@ Datasets we used in the experiments are from <https://github.com/panruotong/CAG>
 We primarily used the open-domain datasets included in the collection: HotpotQA, Musique, and 2wikiMultiHopQA.
 
 
-Under Construction.
+
+Under Construction. The complete code will be uploaded before June
